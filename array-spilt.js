@@ -8,6 +8,6 @@ const removed = nums.splice(2,3, 77);
 console.log(removed);
 console.log(nums);
 
-// The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string
+// The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string.
 const together = nums.join("  ")
 console.log(together);

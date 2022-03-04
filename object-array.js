@@ -1,8 +1,8 @@
 const students = [
-    {id: 21, name: 'Omar Sunny'},
-    {id: 31, name: 'Maannaaaaaa'},
-    {id: 41, name: 'Moyouri'},
-    {id: 71, name: 'DeepJol'}
+    {id: 21, name: 'raiyan'},
+    {id: 31, name: 'saim'},
+    {id: 41, name: 'jisan'},
+    {id: 71, name: 'imran'}
 ];
 
 const names = students.map( s => s.name);
