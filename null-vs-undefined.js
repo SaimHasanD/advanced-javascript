@@ -1,6 +1,6 @@
 // if var value not declared
-let pakhi;
-console.log(pakhi);
+let num;
+console.log(num);
 // if not using return in the function  
 function add(num1, num2){
     console.log(num1 + num2);
@@ -18,8 +18,8 @@ const results = adding(10);
 console.log(results);
 
 // if object value not found
-const premik = {name:"smart dude", phone:458421};
-console.log(premik.gf);
+const student = {name:"smart dude", phone:458421};
+console.log(student.roll);
 
 // if var value = undefined, usually not recommended to do this
 let fun = undefined;
