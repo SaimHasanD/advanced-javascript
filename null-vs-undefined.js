@@ -13,7 +13,6 @@ console.log(result);
 function adding(num1, num2){
     console.log(num1, num2);
 }
-
 const results = adding(10);
 console.log(results);
 
